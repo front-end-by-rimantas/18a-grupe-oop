@@ -93,8 +93,8 @@ teslaX.ride();
 teslaX.ride();
 teslaX.ride();
 teslaX.ride();
-teslaX.ride();
-teslaX.ride();
+
+console.log('--------');
 
 audi80.turnOn();
 audi80.ride();
@@ -107,10 +107,3 @@ audi80.ride();
 audi80.ride();
 audi80.ride();
 audi80.ride();
-audi80.ride();
-audi80.ride();
-audi80.ride();
-audi80.ride();
-audi80.ride();
-
-
